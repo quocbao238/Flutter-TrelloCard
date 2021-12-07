@@ -1,0 +1,15 @@
+name: flutter_cupertino_date_picker
+description: Flutter cupertino date picker. Display DatePicker in iOS style. Support both Android and iOS platform.
+version: 1.0.26+2
+author: Dylan Wu <dylanwuzh@gmail.com>
+homepage: https://github.com/wuzhendev/flutter-cupertino-date-picker
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+
+environment:
+  sdk: ">=1.19.0 <3.0.0"
+  flutter: ">=0.4.1 <2.0.0"
